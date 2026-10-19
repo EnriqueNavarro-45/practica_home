@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prática2.2</string>
+    <string name="materia">Desenvolvimento de aplicativos para dispositivos móveis</string>
+    <string name="home_screen">Home</string>
+    <string name="back_btn_desc">Volte</string>
+    <string name="bottom_app_bar">fundo</string>
+    <string name="snackbar_message">Eu sou um Snackbar!</string>
+    <string name="snackbar_action">Fazer algo</string>
+    <string name="home_fab_text">Adicionar</string>
+    <string name="nombre">José Enrique</string>
+    <string name="apellidos">Navarro Salas</string>
+    <string name="descripcion_imagen">Ilustração do Android</string>
+</resources>
